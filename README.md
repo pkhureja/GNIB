@@ -1,6 +1,6 @@
-## GNIB
+# GNIB
 
-#Book IRP appointment
+## Book IRP appointment
 
 This script helps you to book GNIB appointment. Below are the guideline you need to follow to run this in effective way.
 - You need to add this in tempermonkey chrome extension so it just keep running.
